@@ -7,8 +7,11 @@ I'm **Sankalp Joshi**, a B.Tech sophomore at **IIIT Allahabad**!
 - ⚡ Interested in **Open Source** and **Collaboration**  
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/sankalp-joshi-iiita/)  
-- ✉️ sankalppjoshi30@gmail.com  
+- 💼[LinkedIn](https://www.linkedin.com/in/sankalp-joshi-iiita/)  
+- ✉️ sankalppjoshi30@gmail.com
+- 
+---
+📌 Check out my portfolio → [your-portfolio-link.com](https://www.behance.net/gallery/222181619/Portfolio-2025)
 
 <!--
 **sankalpj47/sankalpj47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
