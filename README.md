@@ -4,10 +4,37 @@
 ---
 
 ## 🚀 About Me
-- 🎨 UI/UX & Graphic Design Enthusiast  
-- 🌐 Passionate about Web & App Development  
-- 🤝 Open Source & Collaboration Lover  
-- ⚡ Always exploring new technologies  
+
+<div align="center">
+
+<h3>✨ Designing Experiences • Building Products ✨</h3>
+
+<p>
+I’m <b>Sankalp Joshi</b>, a B.Tech sophomore at <b>IIIT Allahabad</b>  
+passionate about blending <b>design</b> with <b>development</b>.
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+🧠 <b>Creative Thinker</b> &nbsp;•&nbsp; 💻 <b>Full-Stack Developer</b> &nbsp;•&nbsp; 🎨 <b>UI/UX Designer</b>
+
+</div>
+
+---
+
+### ⚡ What I Do
+
+- 🎨 Craft **clean, intuitive UI/UX designs**
+- 🌐 Build **scalable web & mobile applications**
+- ⚙️ Work with **modern tech (React, Next.js, Node, Firebase)**
+- 🚀 Focus on **performance, usability & aesthetics**
+- 🤝 Love **open source & collaboration**
+
+---
 
 ---
 
