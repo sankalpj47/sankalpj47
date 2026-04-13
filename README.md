@@ -62,7 +62,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sankalpj47/sankalpj47/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/sankalpj47/sankalpj47/output/snake.svg" />
 </p>
 
 ---
