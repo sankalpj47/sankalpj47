@@ -59,6 +59,14 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sankalpj47/sankalpj47/output/snake.svg" alt="snake animation" />
+</p>
+
+---
+
 ## 🌐 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/sankalp-joshi-iiita/)  
 - ✉️ sankalppjoshi30@gmail.com  
