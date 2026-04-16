@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sankalp Joshi</h1>
-<h3 align="center">B.Tech Sophomore @ IIIT Allahabad 🚀</h3>
+<h3 align="center">B.Tech Sophomore @ IIIT Allahabad</h3>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 <div align="center">
-
-<h3>✨ Designing Experiences • Building Products ✨</h3>
 
 <p>
 I’m <b>Sankalp Joshi</b>, a B.Tech sophomore at <b>IIIT Allahabad</b>  
@@ -17,15 +15,6 @@ passionate about blending <b>design</b> with <b>development</b>.
 </div>
 
 ---
-
-<div align="center">
-
-🧠 <b>Creative Thinker</b> &nbsp;•&nbsp; 💻 <b>Full-Stack Developer</b> &nbsp;•&nbsp; 🎨 <b>UI/UX Designer</b>
-
-</div>
-
----
-
 ### ⚡ What I Do
 
 - 🎨 Craft **clean, intuitive UI/UX designs**
