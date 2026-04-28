@@ -15,6 +15,7 @@ passionate about blending <b>design</b> with <b>development</b>.
 </div>
 
 ---
+
 ### ⚡ What I Do
 
 - 🎨 Craft **clean, intuitive UI/UX designs**
@@ -22,8 +23,6 @@ passionate about blending <b>design</b> with <b>development</b>.
 - ⚙️ Work with **modern tech (React, Next.js, Node, Firebase)**
 - 🚀 Focus on **performance, usability & aesthetics**
 - 🤝 Love **open source & collaboration**
-
----
 
 ---
 
