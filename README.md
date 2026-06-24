@@ -4,7 +4,6 @@
   <img src="./assets/minecraft.gif" alt="Banner GIF" />
 </p>
 
----
 
 ## About Me
 
@@ -17,7 +16,6 @@ passionate about blending <b>design</b> with <b>development</b>.
 
 </div>
 
----
 
 <h2 align="center">⚡ Tech Arsenal</h2>
 
@@ -27,7 +25,7 @@ passionate about blending <b>design</b> with <b>development</b>.
 
 ---
 
-## 📊 GitHub Stats
+## Stats
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sankalpj47&show_icons=true&theme=tokyonight" />
@@ -43,31 +41,27 @@ passionate about blending <b>design</b> with <b>development</b>.
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sankalpj47&theme=tokyo-night" />
 </p>
 
----
 
-## 🐍 Contribution Snake
+## 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sankalpj47/sankalpj47/output/snake.svg" />
 </p>
 
----
 
 ## 🌐 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/sankalp-joshi-iiita/)  
 - ✉️ sankalppjoshi30@gmail.com  
 
----
 
 ## 🎨 Portfolio
 📌 https://www.behance.net/gallery/222181619/Portfolio-2025  
 
----
 
 ⭐️ *“Design is intelligence made visible.”*
