@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sankalp Joshi</h1>
 <h3 align="center">B.Tech Sophomore @ IIIT Allahabad</h3>
 
+<p align="center">
+  <img src="./assets/minecraft.gif" alt="Banner GIF" />
+</p>
+
 ---
 
 ## About Me
