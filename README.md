@@ -20,7 +20,11 @@
 <h2 align="center">Tech Arsenal</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,nodejs,express,mongodb,mysql,firebase,docker,figma,git,github,vscode&perline=16" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,nodejs,express,mongodb,mysql,firebase,docker,figma,git,github,vscode,postman,linux&perline=9"
+    alt="Tech Stack"
+     width="700"
+  />
 </p>
 
 <br>
